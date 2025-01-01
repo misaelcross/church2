@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@schedule-x/calendar": "^2.12.1",
+    "@schedule-x/drag-and-drop": "^2.12.1",
+    "@schedule-x/react": "^2.12.1",
+    "@schedule-x/theme-default": "^2.12.1",
+    "@supabase/ssr": "^0.5.2",
+    "@supabase/supabase-js": "^2.47.10",
+    "mina-scheduler": "^1.0.4"
+  }
+}
